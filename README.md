@@ -43,27 +43,27 @@ Version 1.0.2
 
 **Cadastro de usuário/cadastro de produtos**
 
-**- Atores:
+**- Atores:**
 
 Administrador - Insere, edita e exclui novos usuários e produtos;
 
-**- Descrição Suscinta:
+**- Descrição Suscinta:**
 
 Cadastro de novos uduários no sistema e determina quantidade e o tipo de cliente que entra e sai, e também permite adicionar novos produtos;
 
-**-Pré-condição:
+**-Pré-condição:**
 
 Os atores deverão ter acesso de adminiastrador no sistema para que possam fazer os cadastros e qualquer alteração, isso acontecerá através de login e senha para ter acesso a todos os recursos do sistema;
 
-**- Fluxo principal:
+**- Fluxo principal:**
 
 1 - O ator ao acessar a página do sistema "cadastro", no menu superior vai ver campos para preenchimento de usuários novos no sistema, e ao lado também terá acesso aos campos de cadastro de produtos;
 
 2 - O sistema vai precisar que os usuários tenham credenciais de login para serem considerados administradores no sistema;
 
-3 - O sistema exibe na tela os formulários de cadastro de produto e cadastro de usuário, um ao lado do outro, ambos tem botão de "finalizar cadastro";
+3 - O sistema exibe na tela os formulários de cadastro de produto e cadastro de usuário, um ao lado do outro, ambos tem botão de "cadastrar";
 
-4 - O administrador após preencher com o usuário ou produto pode confirmar com o botão de "finalizar cadastro" e assim confirmar ao final os novos itens;
+4 - O administrador após preencher com o usuário ou produto pode confirmar com o botão de "Cadastrar" e assim confirmar ao final os novos itens;
 
 5 - O sistema aloca todos os novos dados no grupo que lhe é determinado, e emite uma mensagem de confirmação, "Cadastro concluído com sucesso";
 
