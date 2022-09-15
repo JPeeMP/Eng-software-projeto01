@@ -63,6 +63,10 @@ Os atores deverão ter acesso de adminiastrador no sistema para que possam fazer
 
 ## User Storie
 
+- User story - Tela de cadastro
+
+  "Como um um usuário que já faz parte do sistema como administrador, quero adicionar novos produtos de diferentes tipos e códigos, e também quero cadastrar usuários de diferentes tipos, e assim poder organizar o fluxo de entrada e saída na loja online."
+
 ## Protótipos de tela
 
 ![image](https://user-images.githubusercontent.com/45723261/190440467-d5bca2d2-929b-488d-94d8-37fa7785bc3a.png)
